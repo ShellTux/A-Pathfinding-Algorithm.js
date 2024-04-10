@@ -1,0 +1,3 @@
+[submodule "JSLib"]
+	path = JSLib
+	url = git@github.com:ShellTux/JSLib
