@@ -4,6 +4,10 @@ This project implements the A* path finding algorithm in JavaScript. The A*
 algorithm is a popular path finding algorithm commonly used in video games and
 robotics to find the shortest path between two points on a grid.
 
+## Usage
+
+Visit [Github Page](https://shelltux.github.io/A-Pathfinding-Algorithm.js/)
+
 ## Contributing
 
 If you would like to contribute to the project, feel free to fork the repository
